@@ -1,4 +1,4 @@
-# desktop-notification
+# Desktop-Notification
 A program which generates a desktop notification through Python.
 
 >Language - Python
